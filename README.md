@@ -5,9 +5,9 @@ https://youtu.be/S0M90A9QvM4
 
 ## Description
 
-This project is a reusable machine learning pipeline built in Python. It automates common steps in a machine learning workflow, including loading data, cleaning missing values, separating features and targets, splitting data into training and testing sets, scaling features, training a classification model, and evaluating model performance.
+This project is a reusable machine learning pipeline built in Python that analyzes the **Heart Disease** csv dataset from the UC Irvine Machine Learning Repository. It automates common steps in a machine learning workflow, including loading data, cleaning missing values, separating features and targets, splitting data into training and testing sets, scaling features, training a classification model, predicting heart disease in new patients, and evaluating model performance.
 
-The goal of this project is to create a simple framework that makes the machine learning workflow more organized and easier to reuse across different datasets.
+The goal of this project is to create a simple framework that can predict heart disease in new patient data and making a machine learning workflow that is organized and easy to reuse across different chronic disease datasets.
 
 ## Features
 
