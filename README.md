@@ -1,4 +1,4 @@
-# Machine Learning Data Pipeline
+# CS50 Final Project - Heart Disease Prediction
 
 #### Video Demo:
 https://youtu.be/S0M90A9QvM4
